@@ -4,7 +4,7 @@ A desktop companion app that lets Pokémon roam freely on your Windows desktop. 
 
 ## Demo
 
-![PokéDesk on Desktop](static/demo.png)
+![PokéDesk on Desktop](demo.png)
 
 ---
 
